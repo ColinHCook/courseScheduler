@@ -1,6 +1,6 @@
 # CourseScheduler Project
 
-Designed a Course Scheduler GUI using Java in the Netbeans IDE, Apache Deryb Databases, and SQL to help schedule classes and manage courses.
+Designed a Course Scheduler GUI using Java in the Netbeans IDE, Apache Derby Databases, and SQL to help schedule classes and manage courses.
 
 Key Features:
 1. Allows users to create accounts and manage their respective classes/schedules, saved in the database.
